@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# This is a H1 header
+#### This isa h4 header
+Below is a *list* of **technical skills**:
+- Python
+- R
+- SAS
+- Perl
+- LabVIEW
+- C/C++
+
